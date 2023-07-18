@@ -1,0 +1,91 @@
+/* Random Color Scheme */
+.bpw-layout {
+    background-color: #f0f5f9;
+    border: 1px solid #cdd9e5;
+    border-radius: 8px;
+  }
+  
+  .bpw-header-title {
+    color: #ffffff;
+  }
+  
+  .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+    color: #ffffff;
+    background-color: #5182d1;
+  }
+  
+  .bpw-header-icon:hover {
+    fill: #ffffff;
+  }
+  
+  .bpw-header-container {
+    border: 1px solid #cdd9e5;
+    background-color: #5182d1;
+    border-radius: 8px;
+  }
+  
+  .bpw-header-title-container .bpw-bot-avatar {
+    display: none;
+  }
+  
+  a {
+    color: #ffffff;
+  }
+  
+  a:hover {
+    color: #d8d8d8;
+  }
+  
+  .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #ffffff;
+    border-radius: 20px;
+  }
+  
+  #botpress-tooltip-1,
+  #botpress-tooltip-37 {
+    display: none;
+  }
+  
+  .bpw-send-button {
+    background-color: #5182d1;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin-left: 8px;
+  }
+  
+  .bpw-powered {
+    display: none;
+  }
+  
+  .bpw-card-action {
+    font-weight: bold;
+    color: #5182d1;
+    border: 1px solid #5182d1;
+  }
+  
+  .bpw-card-container {
+    border: 1px solid #cdd9e5;
+  }
+  
+  .bpw-keyboard-quick_reply {
+    background-color: #5182d1;
+    padding: 4px 8px;
+  }
+  
+  .bpw-button {
+    appearance: none;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+  }
+  
+  .bpw-widget-btn {
+    appearance: none;
+    background-image: linear-gradient(#5182d1, #3068b1);
+  }
+  
+  .bpw-floating-button {
+    box-shadow: none;
+  }
+  
